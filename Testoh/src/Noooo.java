@@ -1,6 +1,4 @@
 
 public class Noooo {
-	public void cattivoChiodo() {
-		
-	}
+	public void cattivoChiodo() {}
 }
